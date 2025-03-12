@@ -1,6 +1,6 @@
 ## Gerard Koppelman's Bioinformatics Group
 
-This is the Github page of Gerard's koppelman's group at the Beatrix Children's Hospital at UMCG, part of the pediatric pulmonology department.
+This is the Github page of Gerard koppelman's group at the Beatrix Children's Hospital at UMCG, part of the pediatric pulmonology department.
 
 
 <!--
